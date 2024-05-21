@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cn5lfKPhp2wn56gq04Ptyrs8UMNEOwDSvNkKN2r23Lg=",
+  "Source": "Grpcdotnet8Service",
+  "BasePath": "_content/Grpcdotnet8Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

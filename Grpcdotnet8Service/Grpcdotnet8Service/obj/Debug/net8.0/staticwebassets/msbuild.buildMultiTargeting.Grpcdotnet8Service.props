@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grpcdotnet8Service.props" />
+</Project>

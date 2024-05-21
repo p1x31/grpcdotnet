@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnetclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|solutionrelative:grpcdotnetclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnetclient\\grpcdotnetclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|solutionrelative:grpcdotnetclient\\grpcdotnetclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnetclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|solutionrelative:grpcdotnetclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DBB3D4-1849-43A3-81E0-34D55C1E7FEC}|Grpcdotnet8Service\\Grpcdotnet8Service.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnet8service\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DBB3D4-1849-43A3-81E0-34D55C1E7FEC}|Grpcdotnet8Service\\Grpcdotnet8Service.csproj|solutionrelative:grpcdotnet8service\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DBB3D4-1849-43A3-81E0-34D55C1E7FEC}|Grpcdotnet8Service\\Grpcdotnet8Service.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnet8service\\grpcdotnet8service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18DBB3D4-1849-43A3-81E0-34D55C1E7FEC}|Grpcdotnet8Service\\Grpcdotnet8Service.csproj|solutionrelative:grpcdotnet8service\\grpcdotnet8service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|c:\\users\\user\\dev\\grpcdotnet\\grpcdotnet8service\\grpcdotnetclient\\grpcdotnetclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C73CB8E-A27D-495B-BF34-D63402EF903B}|grpcdotnetClient\\grpcdotnetClient.csproj|solutionrelative:grpcdotnetclient\\grpcdotnetclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grpcdotnetClient",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\grpcdotnetClient.csproj",
+              "RelativeDocumentMoniker": "grpcdotnetClient\\grpcdotnetClient.csproj",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\grpcdotnetClient.csproj",
+              "RelativeToolTip": "grpcdotnetClient\\grpcdotnetClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T15:21:11.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "grpcdotnetClient\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\Protos\\greet.proto",
+              "RelativeToolTip": "grpcdotnetClient\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-05-21T15:18:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\Grpcdotnet8Service\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Grpcdotnet8Service\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\Grpcdotnet8Service\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Grpcdotnet8Service\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:15:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grpcdotnet8Service.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\Grpcdotnet8Service\\Grpcdotnet8Service.csproj",
+              "RelativeDocumentMoniker": "Grpcdotnet8Service\\Grpcdotnet8Service.csproj",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\Grpcdotnet8Service\\Grpcdotnet8Service.csproj",
+              "RelativeToolTip": "Grpcdotnet8Service\\Grpcdotnet8Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T14:48:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grpcdotnetClient.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\grpcdotnetClient.csproj",
+              "RelativeDocumentMoniker": "grpcdotnetClient\\grpcdotnetClient.csproj",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\grpcdotnetClient.csproj",
+              "RelativeToolTip": "grpcdotnetClient\\grpcdotnetClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T14:48:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\Program.cs",
+              "RelativeDocumentMoniker": "grpcdotnetClient\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\dev\\grpcdotnet\\Grpcdotnet8Service\\grpcdotnetClient\\Program.cs",
+              "RelativeToolTip": "grpcdotnetClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:51.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
